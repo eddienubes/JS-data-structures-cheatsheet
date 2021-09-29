@@ -1,4 +1,4 @@
-## Cheatheet contains the following:
+## Cheatsheet contains the following:
 - Bubble Sort - wtf?
 - Quick Sort 
 - Selection Sort
